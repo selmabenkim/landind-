@@ -1,0 +1,18 @@
+Machine:   MacBook-Pro-de-salim.local in domain 
+User:      Salma
+Mode:      64-Bit
+Display:   Display not detectable
+Driver:    Driver not detectable
+CPU:       Name: Intel(R) Core(TM) i5-5257U CPU @ 2.70GHz
+           Model: 61, Family: 6, Stepping: 4 
+           Total Threads: 4
+           Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AES AVX AVX2 FMA F16C POPCNT RDTSCP RDRAND
+Base path: /Applications/Adobe Premiere Pro CC 2017/Adobe Premiere Pro CC 2017.app/Contents/MacOS/
+Arguments: 
+
+18:45:43 [IrLog]           LogFile initialized
+18:45:43 [GlobalSettings]  Loading user settings from /Users/salim/Documents/Adobe/Lumetri/9.0/settings/User_Settings.xml
+19:06:01 [GlobalSettings]  Last object UID: 0x00000001
+19:06:01 [IrLog]           Closing log file
+
+09/23/17
